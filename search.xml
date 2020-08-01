@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>测试hexo新博客</title>
-    <url>/post/test/</url>
-    <content><![CDATA[<p>$$<br>\lim_{n\rightarrow\infty}\sum_{k=1}^n\frac{1}{k^2}=\frac{\pi^2}{6}<br>$$</p>
-<h3 id="很有意思"><a href="#很有意思" class="headerlink" title="很有意思"></a>很有意思</h3><p><del>不是</del> <strong>hhhh</strong> </p>
-<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">	<span class="keyword">int</span> n,m;</span><br><span class="line">	<span class="built_in">cin</span>&gt;&gt;n&gt;&gt;m;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;(<span class="keyword">int</span>)(<span class="built_in">pow</span>(<span class="number">1.0</span>*n,<span class="number">1.0</span>/m))&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>none</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
-        <tag>测验</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>详解2-SAT</title>
     <url>/post/2-SAT/</url>
     <content><![CDATA[<p><del>众所周知</del>，2-SAT是判断一组逻辑关系是否可能成立的重要算法，适用范围十分广泛。</p>
@@ -111,5 +97,28 @@
 
 <p>未完待续~</p>
 ]]></content>
+      <categories>
+        <category>图论算法</category>
+      </categories>
+      <tags>
+        <tag>图论</tag>
+        <tag>算法</tag>
+        <tag>2-SAT</tag>
+        <tag>缩点</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>测试hexo新博客</title>
+    <url>/post/test/</url>
+    <content><![CDATA[<p>$$<br>\lim_{n\rightarrow\infty}\sum_{k=1}^n\frac{1}{k^2}=\frac{\pi^2}{6}<br>$$</p>
+<h3 id="很有意思"><a href="#很有意思" class="headerlink" title="很有意思"></a>很有意思</h3><p><del>不是</del> <strong>hhhh</strong> </p>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">	<span class="keyword">int</span> n,m;</span><br><span class="line">	<span class="built_in">cin</span>&gt;&gt;n&gt;&gt;m;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;(<span class="keyword">int</span>)(<span class="built_in">pow</span>(<span class="number">1.0</span>*n,<span class="number">1.0</span>/m))&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>none</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+        <tag>测验</tag>
+      </tags>
   </entry>
 </search>
